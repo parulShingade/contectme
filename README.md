@@ -8,11 +8,11 @@
 
 <body>
  <div>
-    <form action="https://formsubmit.co/parulshingade32@gmail.com" method="POST">
-        <input type="text"  placeholder="Name" class="Name">
-        <input type="text"  placeholder="comment" class="comment">
-        <button type="submit">submit</button>
-    </form>
+<form action="https://formsubmit.co/your@email.com" method="POST">
+     <input type="text" name="name" required>
+     <input type="email" name="email" required>
+     <button type="submit">Send</button>
+</form>
  </div>
 </body>
 </html>
